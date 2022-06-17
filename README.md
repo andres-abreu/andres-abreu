@@ -1,4 +1,5 @@
 ### Hi there 👋
+Thank you for visiting my Github-profile and repo's, please feel free to connect with me via linkedin, simply tap on the badge below. 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andresabreucreator/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

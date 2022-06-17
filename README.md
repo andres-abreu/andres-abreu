@@ -12,12 +12,6 @@
 </div>
 
 
-## PORTFOLIO
-* Here's a quick-video-collage-demo with some of my works.
-<div id="badges">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" alt="Github counter"/>
-</div>
-
 
 <!--
 **andres-abreu/andres-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
